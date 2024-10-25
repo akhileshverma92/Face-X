@@ -232,6 +232,8 @@ Or you can create a  <a href="https://github.com/akshitagupta15june/Face-X/issue
 
 ### Show some ❤️ by starring this awesome Repository!
 
+### I'm from Government polytechnic kanpur 
+
 </div>
 
 <!-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------ -->
